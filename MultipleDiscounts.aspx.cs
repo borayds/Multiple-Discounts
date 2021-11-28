@@ -10,6 +10,8 @@ double AfterDiscount2 = AfterDiscount1 - (AfterDiscount1 * Convert.ToDouble(Seco
 double AfterDiscount3 = AfterDiscount2 - (AfterDiscount2 * Convert.ToDouble(ThirdPercentage.Text) * 0.01);
 // AtferDiscount3 = 162-(162*0*0.01) = 162-(0) = $162 again..
 
+
+
 //// Coding to Find the Total Discount Percantage Applied (%)
 //// With the same percantage variables applied above (10%+10%+0%);
 
